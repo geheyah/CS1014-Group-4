@@ -4,7 +4,7 @@ html css assignment for intro to computing
 group 4's pitch is e-commerce/ shop type website made using html and css
 
 **what is the name of this shop?**
-CIIT PC
+PCiit
 
 **what kind of shop?**
 pc parts and hardware.
