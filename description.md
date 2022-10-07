@@ -3,6 +3,15 @@ html css assignment for intro to computing
 
 ecommerce/ shop type website made using html and css
 
+what is the name of this shop?
+
+
+what kind of shop?
+pc parts and hardware.
+
+color palette of the site:
+monochrome, black and white
+
 group members:
 aaron cruz
 geia santos
