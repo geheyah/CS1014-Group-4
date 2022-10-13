@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*Navigation*/
 .navbar{
     display: flex;
     align-items: center;
@@ -39,6 +40,7 @@ p{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+/*header*/
 .col-2{
     flex-basis: 50%;
     min-width: 300px;
@@ -46,4 +48,9 @@ p{
 .col-2 img{
     max-width: 100%;
     padding: 50px;
+}
+.col-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px;
 }
