@@ -27,7 +27,7 @@ nav ul li{
 }
 a{
     text-decoration: none;
-    color: white; /*Please Modify Color if needed*/
+    color: gray; /*Please Modify Color if needed*/
 }
 p{
     color: black;
