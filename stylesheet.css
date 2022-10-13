@@ -135,7 +135,7 @@ h4{
     transform: translateY(-5px);
 }
 .offer{
-    background: radial-gradient(white,rgb(76, 206, 206));
+    background: radial-gradient(white,black);
     margin-top: 80px;
     padding-top: 30px 0;
 }
