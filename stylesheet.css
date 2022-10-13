@@ -23,10 +23,10 @@ nav ul li{
 }
 a{
     text-decoration: none;
-    color: pink; /*Please Modify Color if needed*/
+    color: black; /*Please Modify Color if needed*/
 }
 p{
-    color: aliceblue;
+    color: black;
 }
 .container{
     max-width: 1300px;
