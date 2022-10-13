@@ -12,3 +12,15 @@ nav{
     flex: 1;
     text-align: right;
 }
+nav ul{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: white; /*Please Modify Color if needed*/
+}
