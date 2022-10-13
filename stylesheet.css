@@ -62,3 +62,11 @@ p{
     margin: 30px 0;
     border-radius: 30px;
 }
+
+
+
+
+
+@supports (-moz-appearance:none) {
+    selector { property:value; }
+    }
