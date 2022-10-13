@@ -30,7 +30,7 @@ a{
     color: white; /*Please Modify Color if needed*/
 }
 p{
-    color: white;
+    color: black;
 }
 .container{
     max-width: 1300px;
@@ -105,7 +105,17 @@ p{
     width: 100%;
 
 }
-
+.title{
+    text-align: center;
+    margin: 0 auto 80 px;
+    position: relative;
+    line-height: 60px;
+    color:black;
+}
+.title::after{
+    content: '';
+    background: ;
+}
 
 
 
