@@ -54,3 +54,8 @@ p{
     line-height: 60px;
     margin: 25px;
 }
+.btn{
+    display: inline-block;
+    background: black;
+    color: white;
+}
