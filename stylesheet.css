@@ -22,5 +22,14 @@ nav ul li{
 }
 a{
     text-decoration: none;
-    color: white; /*Please Modify Color if needed*/
+    color: pink; /*Please Modify Color if needed*/
+}
+p{
+    color: aliceblue;
+}
+.container{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
