@@ -67,6 +67,8 @@ p{
 
 
 
-@supports (-moz-appearance:none) {
-    selector { property:value; }
+@-moz-document url-prefix() {
+    selector {
+    property:value;
+    }
     }
