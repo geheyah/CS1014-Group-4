@@ -306,5 +306,23 @@ body{
     color: white;
 }
 
+#sm-banner{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#sm-banner .banner-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(CS1014-Group-4/assets/images/slide-2.jpg);
+    min-width: 500px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
 
 
