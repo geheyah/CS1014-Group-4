@@ -194,11 +194,33 @@ body{
     border-radius: 20px;
     cursor: pointer;
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+    margin: 15px 0;
+    transition: 0.2s ease;
+}
+
+#product1 .pro:hover{
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
 }
 
 #product1 .pro img{
     width: 100%;
     border-radius: 15px;
+}
+
+#product1 .pro .des{
+    text-align: start;
+    padding: 10px 0;
+}
+
+#product1 .pro .des span{
+    color: #c96;
+    font-size: 12px;
+}
+
+#product1 .pro .des h5{
+    padding: 7px;
+    color:#222;
+    font-size: 14px;
 }
 
 
