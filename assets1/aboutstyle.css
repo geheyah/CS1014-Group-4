@@ -49,3 +49,29 @@ p{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+.aboutcontainer{
+  position: relative;
+  background: white;
+  width: 600px;
+  height: 300px;
+  border: 5px solid #000000;
+  border-radius: 2px;
+  margin: auto;
+  margin-top: 90px;
+}
+
+.aboutheading {
+  position: absolute;
+  background: black;
+  width: 595px;
+  height: 50px;
+  border: 5px solid #000000;
+  border-radius: 0px;
+  margin: auto;
+}
+
+.abouttext {
+  margin-left:15px;
+  margin-right:10px;
+}
