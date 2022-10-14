@@ -76,7 +76,7 @@ p{
     min-height: 100vh;
     width: 100%;
     background-image: linear-gradient(white,black);
-    background-position: inherit;
+    background-position: center;
     background-size: cover;
     position: relative;
 }
