@@ -351,3 +351,7 @@ body{
     padding: 15px;
 }
 
+#sm-banner .banner-box:hover button{
+    background: #c96;
+    border: 1px solid #c96;
+}
