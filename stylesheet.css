@@ -55,12 +55,6 @@ p{
     flex-basis: 100%;
     min-width: 300px;
 }
-.col-2 img{
-    max-width: 100%;
-    padding: 50px 0;
-    background-image: linear-gradient(white,black);
-    background-size: cover;
-}
 .col-2 h1{
     font-size: 50px;
     line-height: 60px;
@@ -79,7 +73,7 @@ p{
     background: orangered;
 }
 .header{
-    background: radial-gradient(white,black);
+    background-image: linear-gradient(white,black),url(site photos/acer.jpg);
 }
 .header row{
     margin-top: 70px;
