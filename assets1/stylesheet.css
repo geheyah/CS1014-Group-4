@@ -122,7 +122,7 @@ body{
 
 /*home page*/
 #hero{
-    background-image: url("CS1014-Group-4/site photos/acer.jpg");
+    background-image: url(CS1014-Group-4/img/acer.jpg);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -299,6 +299,11 @@ body{
     color: orangered;
     font-size: 30px;
     padding: 10px 0;
+}
+
+#banner button;hover{
+    background-color: #c96;
+    color: white;
 }
 
 
