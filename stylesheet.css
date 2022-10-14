@@ -62,9 +62,9 @@ p{
 }
 .col-2 img{
     background-image: linear-gradient(white,black);
-    background-position: 0%;
+    background-position: center;
     background-size: cover;
-    position: relative;
+    position: static;
 }
 .btn{
     display: inline-block;
