@@ -52,7 +52,7 @@ p{
 }
 /*header*/
 .col-2{
-    flex-basis: 50%;
+    flex-basis: 100%;
     min-width: 300px;
 }
 .col-2 img{
