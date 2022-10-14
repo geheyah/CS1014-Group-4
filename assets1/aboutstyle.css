@@ -12,14 +12,18 @@ body{
 .navbar{
     display: flex;
     align-items: center;
-	max-width: 1150px;
+	width:100&
 	margin: auto;
 }
 .logo{
 	display: flex;
 	text-align: center;
-	margin-left: 50px;
+	margin-left: 90px;
 }
+.cart{
+  margin-right:80px;
+}
+
 nav{
 	flex: 1;
     text-align: right;
