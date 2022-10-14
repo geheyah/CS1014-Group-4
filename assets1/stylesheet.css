@@ -129,7 +129,7 @@ body{
 
 /*home page*/
 #hero{
-    background-image: url(img/acer.jpg);
+    background-image: url("img/acer.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -308,7 +308,7 @@ body{
     padding: 10px 0;
 }
 
-#banner button;hover{
+#banner button:hover{
     background-color: #c96;
     color: white;
 }
