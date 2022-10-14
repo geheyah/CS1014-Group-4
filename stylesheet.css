@@ -17,6 +17,8 @@ body{
 .logo{
 	display: flex;
 	text-align: center;
+    align-items: center;
+    margin-top: 27.2px; /*converted rem to px*/
 }
 nav{
 	flex: 1;
@@ -56,6 +58,8 @@ p{
 .col-2 img{
     max-width: 100%;
     padding: 50px 0;
+    background-image: linear-gradient(white,black);
+    background-size: cover;
 }
 .col-2 h1{
     font-size: 50px;
@@ -72,7 +76,7 @@ p{
     transition: 0.5s;
 }
 .btn:hover{
-    background: gray;
+    background: orangered;
 }
 .header{
     background: radial-gradient(white,black);
