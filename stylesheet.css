@@ -73,7 +73,12 @@ p{
     background: orangered;
 }
 .header{
-    background-image: linear-gradient(white,black),url(site photos/acer.jpg);
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(white,black);
+    background-position: 0%;
+    background-size: cover;
+    position: relative;
 }
 .header row{
     margin-top: 70px;
