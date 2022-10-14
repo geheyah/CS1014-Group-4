@@ -196,6 +196,7 @@ body{
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
     margin: 15px 0;
     transition: 0.2s ease;
+    position: relative;
 }
 
 #product1 .pro:hover{
@@ -233,5 +234,19 @@ body{
     font-size: 15px;
     font-weight: 700 ;
     color: #c96;
+}
+
+#product1 .pro .cart{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #222;
+    font-weight: 500;
+    color: #c96;
+    border: 1px solid #222;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
 }
 
