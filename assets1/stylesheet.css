@@ -174,7 +174,7 @@ body{
 }
 
 #feature .featbox{
-    width: 100px;
+    width: 180px;
     text-align: center;
     padding: 25px 15px;
     box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
@@ -193,16 +193,13 @@ body{
 }
 
 #feature .featbox h6{
-    padding: 9px 8px 9px 8px;
+    display: inline-block;
+    padding: 9px 8px 6px 8px;
     line-height:1;
     border-radius: 4px;
     color:white;
-    background-color: black;
+    background-color: #c96;
 }
-
-/*#feature .featbox h6:nt-child(2) h6{
-    background-color: ;
-} this is for individual text change in features*/
 
 #product1{
     text-align: center;
