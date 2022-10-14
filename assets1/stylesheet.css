@@ -171,7 +171,7 @@ body{
 }
 
 #feature .featbox h6{
-    padding: 9px 8px 6px 8px;
+    padding: 9px 8px 9px 8px;
     line-height:1;
     border-radius: 4px;
     color:white;
@@ -232,7 +232,7 @@ body{
 }
 
 #product1 .pro .des i{
-    font-size: 12px;
+    font-size: 14px;
     color: gold;
 }
 
@@ -248,7 +248,7 @@ body{
     height: 40px;
     line-height: 40px;
     border-radius: 50px;
-    background-color: #222;
+    background-color: whitesmoke;
     font-weight: 500;
     color: #c96;
     border: 1px solid #222;
